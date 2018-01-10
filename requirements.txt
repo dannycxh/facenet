@@ -1,9 +1,1 @@
-tensorflow==1.2
-scipy
-scikit-learn
-opencv-python
-h5py
-matplotlib
-Pillow
-requests
-psutil
+pip install tensorflow==1.2 scipy scikit-learn opencv-python h5py matplotlib Pillow requests psutil
